@@ -22,83 +22,88 @@ The ones that have been modified are prefixed with a "!".
 
 ### Apostrophe (')
 
-**!** All of the following need the `AltGr` prefix. Example: `'` + `a` is now `AltGr` + `'` + `a`
+**!** All of the following need the `AltGr` prefix.  
+Example: `'` + `a` is now `AltGr` + `'` + `a`
 
-`'` + `c` = `ç`
-`'` + `a` = `á`  
-`'` + `e` = `é`  
-`'` + `u` = `ú`  
-`'` + `i` = `í`  
-`'` + `y` = `ý`  
-`'` + `o` = `ó`  
-`'` + `C` = `Ç`  
-`'` + `A` = `Á`  
-`'` + `E` = `É`  
-`'` + `U` = `Ú`  
-`'` + `I` = `Í`  
-`'` + `Y` = `Ý`  
-`'` + `O` = `Ó`  
+**!** `'` + `c` = `ç`  
+**!** `'` + `a` = `á`  
+**!** `'` + `e` = `é`  
+**!** `'` + `u` = `ú`  
+**!** `'` + `i` = `í`  
+**!** `'` + `y` = `ý`  
+**!** `'` + `o` = `ó`  
+**!** `'` + `C` = `Ç`  
+**!** `'` + `A` = `Á`  
+**!** `'` + `E` = `É`  
+**!** `'` + `U` = `Ú`  
+**!** `'` + `I` = `Í`  
+**!** `'` + `Y` = `Ý`  
+**!** `'` + `O` = `Ó`  
 **!** `'` + `<space>` = `'` (Useless as `'` is no longer a dead key)
 
 ### Quotation Mark (")
 
-**!** All of the following need the `AltGr` prefix. Example: `"` + `a` is now `AltGr` + `"` + `a`
+**!** All of the following need the `AltGr` prefix.  
+Example: `"` + `a` is now `AltGr` + `"` + `a`
 
-`"` + `a` = `ä`  
-`"` + `e` = `ë`  
-`"` + `u` = `ü`  
-`"` + `i` = `ï`  
-`"` + `y` = `ÿ`  
-`"` + `o` = `ö`  
-`"` + `A` = `Ä`  
-`"` + `E` = `Ë`  
-`"` + `U` = `Ü`  
-`"` + `I` = `Ï`  
-`"` + `O` = `Ö`  
+**!** `"` + `a` = `ä`  
+**!** `"` + `e` = `ë`  
+**!** `"` + `u` = `ü`  
+**!** `"` + `i` = `ï`  
+**!** `"` + `y` = `ÿ`  
+**!** `"` + `o` = `ö`  
+**!** `"` + `A` = `Ä`  
+**!** `"` + `E` = `Ë`  
+**!** `"` + `U` = `Ü`  
+**!** `"` + `I` = `Ï`  
+**!** `"` + `O` = `Ö`  
 **!** `"` + `<space>` = `"` (Useless as `"` is no longer a dead key)  
 
 ### Grave Accent (`)
 
-**!** All of the following need the `AltGr` prefix. Example: ``` ` ``` + `a` is now `AltGr` + ``` ` ``` + `a`
+**!** All of the following need the `AltGr` prefix.  
+Example: ``` ` ``` + `a` is now `AltGr` + ``` ` ``` + `a`
 
-``` ` ``` + `a` = `à`  
-``` ` ``` + `e` = `è`  
-``` ` ``` + `u` = `ù`  
-``` ` ``` + `i` = `ì`  
-``` ` ``` + `o` = `ò`  
-``` ` ``` + `A` = `À`  
-``` ` ``` + `E` = `È`  
-``` ` ``` + `U` = `Ù`  
-``` ` ``` + `I` = `Ì`  
-``` ` ``` + `O` = `Ò`  
+**!** ``` ` ``` + `a` = `à`  
+**!** ``` ` ``` + `e` = `è`  
+**!** ``` ` ``` + `u` = `ù`  
+**!** ``` ` ``` + `i` = `ì`  
+**!** ``` ` ``` + `o` = `ò`  
+**!** ``` ` ``` + `A` = `À`  
+**!** ``` ` ``` + `E` = `È`  
+**!** ``` ` ``` + `U` = `Ù`  
+**!** ``` ` ``` + `I` = `Ì`  
+**!** ``` ` ``` + `O` = `Ò`  
 **!** ``` ` ``` + `<space>` = ``` ` ``` (Useless as ``` ` ``` is no longer a dead key)  
 
 ### Tilde (~)
 
-**!** All of the following need the `AltGr` prefix. Example: `~` + `a` is now `AltGr` + `~` + `a`
+**!** All of the following need the `AltGr` prefix.  
+Example: `~` + `a` is now `AltGr` + `~` + `a`
 
-`~` + `n` = `ñ`  
-`~` + `a` = `ã`  
-`~` + `o` = `õ`  
-`~` + `N` = `Ñ`  
-`~` + `A` = `Ã`  
-`~` + `O` = `Õ`  
+**!** `~` + `n` = `ñ`  
+**!** `~` + `a` = `ã`  
+**!** `~` + `o` = `õ`  
+**!** `~` + `N` = `Ñ`  
+**!** `~` + `A` = `Ã`  
+**!** `~` + `O` = `Õ`  
 **!** `~` + `<space>` = `~` (Useless as `~` is no longer a dead key)  
 
 ### Circumflex Accent (^)
 
-**!** All of the following need the `AltGr` prefix. Example: `^` + `a` is now `AltGr` + `^` + `a`
+**!** All of the following need the `AltGr` prefix.  
+Example: `^` + `a` is now `AltGr` + `^` + `a`
 
-`^` + `a` = `â`  
-`^` + `e` = `ê`  
-`^` + `u` = `û`  
-`^` + `i` = `î`  
-`^` + `o` = `ô`  
-`^` + `A` = `Â`  
-`^` + `E` = `Ê`  
-`^` + `U` = `Û`  
-`^` + `I` = `Î`  
-`^` + `O` = `Ô`  
+**!** `^` + `a` = `â`  
+**!** `^` + `e` = `ê`  
+**!** `^` + `u` = `û`  
+**!** `^` + `i` = `î`  
+**!** `^` + `o` = `ô`  
+**!** `^` + `A` = `Â`  
+**!** `^` + `E` = `Ê`  
+**!** `^` + `U` = `Û`  
+**!** `^` + `I` = `Î`  
+**!** `^` + `O` = `Ô`  
 **!** `^` + `<space>` = `^` (Useless as `^` is no longer a dead key)  
 
 ### Alt + Ctrl (AltGr)
