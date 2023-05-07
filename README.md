@@ -13,6 +13,13 @@ But that makes it anoying for some tasks, like coding, that you have to enter a 
 The characters `'`, `"`, ``` ` ```, `~`, and `^` are no longer dead keys, so it's use is like in a normal us layout.  
 To use them as dead keys to compose special characters now you need to use `AltGr` + `<one of the dead keys>` followed by the character you want to modify. Composite characters that already made the use of `AltGr` remain the same, with the exception of the following two: `AltGr` + `'` = `´` and `AltGr` + `"` = `¨` that because of `AltGr` + `'` or `"` being now dead keys are modified to `AltGr` + `'` + `<space>` and `AltGr` + `"` + `<space>` respectively.
 
+## Instalation
+
+It can be installed with the setup from the most recent release: [Release v1.0](https://github.com/giannilabella/win-us-intl-ndk/releases/tag/v1.0)  
+Or you can build it yourself with [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134), just open the program, in the menu under the File option load the [source file](https://github.com/giannilabella/win-us-intl-ndk/blob/main/win-us-intl-ndk.klc) and then under the Project option build it. 
+
+If you end up building or validating the source file with MSKLC, you should see three warnings about keys defined more than once (`^`, ``` ` ```, and `~`), as far as I know they are inevitable given the layout behavior (if you know a solution feel free to open a PR).
+
 ## Composite Characters
 
 List of the original use of the dead keys.  
